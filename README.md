@@ -1,7 +1,7 @@
 <h2>Overview</h2>
 This project is a simple Number Guessing Game where the player has to guess a randomly generated number between 1 and 20. It's a small yet significant project for me, as it marks my first foray into the world of programming. Through this project, I’ve learned many fundamental concepts and practices that are crucial in software development.
 
-<img src="https://storage.googleapis.com/replit/images/1692534319280_4c8cea2b2a8d04ccf936dcda44645fbb.png" alt="Guess The Number" width="500" height="600">
+<img src="https://storage.googleapis.com/replit/images/1692534319280_4c8cea2b2a8d04ccf936dcda44645fbb.png" alt="Guess The Number" width="500" height="400">
 
 <h3>What I Learned</h3>
 While working on this project, I gained hands-on experience with the following:
