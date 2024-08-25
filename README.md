@@ -6,11 +6,11 @@ This project is a simple Number Guessing Game where the player has to guess a ra
 <h3>What I Learned</h3>
 While working on this project, I gained hands-on experience with the following:
 
-<b>Basic Programming Concepts:</b> Understanding variables, loops, and conditional statements.
-<b>User Input Handling:</b> Capturing and processing user input to make the game interactive.
-<b>Random Number Generation:</b> Implementing randomness in the game to generate the target number.
-<b>Logic Building:</b> Developing the logic to compare the user's guess with the target number and provide feedback.
-<b>Error Handling:</b> Implementing basic error handling to manage invalid inputs gracefully.
+<b>Basic Programming Concepts:</b> Understanding variables, loops, and conditional statements.<br>
+<b>User Input Handling:</b> Capturing and processing user input to make the game interactive.<br>
+<b>Random Number Generation:</b> Implementing randomness in the game to generate the target number.<br>
+<b>Logic Building:</b> Developing the logic to compare the user's guess with the target number and provide feedback.<br>
+<b>Error Handling:</b> Implementing basic error handling to manage invalid inputs gracefully.<br>
 
 <h3>How It Works</h3>
 <ol>
