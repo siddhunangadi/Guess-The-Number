@@ -22,9 +22,8 @@ While working on this project, I gained hands-on experience with the following:
 </ol>
 
 
-Live Server : https://siddhunangadi.github.io/Guess-The-Number/
 
--------------------------😍Thank you for checking out my project!😍-------------------------
+-----------------------------------😍Thank you for checking out my project!😍-----------------------------------
 
 
 
